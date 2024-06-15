@@ -1,1 +1,2 @@
-docker pull yunkunma/npc:latest
+yunkunma/npc:latest
+yunkunma/npc:arm64
